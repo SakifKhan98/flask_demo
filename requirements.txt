@@ -1,5 +1,5 @@
 certifi==2021.5.30
-click @ file:///tmp/build/80754af9/click_1621604852318/work
+click==8.0.1
 Flask @ file:///home/ktietz/src/ci/flask_1611932660458/work
 gunicorn==20.1.0
 importlib-metadata @ file:///C:/ci/importlib-metadata_1617877477759/work
